@@ -106,7 +106,7 @@ var app = {
 
   remove: function (element) {
     element.parentNode.removeChild(element);
-  },
+  }
   
 };
 
